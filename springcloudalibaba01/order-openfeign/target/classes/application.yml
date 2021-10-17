@@ -1,0 +1,32 @@
+server:
+  port: 8040
+#应用名称(nacos会将该名称当做服务名称)
+spring:
+  application:
+    name: order-service
+  cloud:
+    nacos:
+      discovery:
+        username: nacos
+        password: nacos
+        namespace: public #命名空间 管理界面的服务列表
+      server-addr: 192.168.1.129:8847
+
+#springboot默认日志级别是info,feign的debug日志级别就不会输出
+logging:
+  level:
+    com.tuilngxueyuan.feign: debug #指定包名进行配置
+  #level: debug  #此处回对所有的日志级别进行配置，
+
+#feign局部的配置
+feign:
+  client:
+    config:
+      #指定服务名
+      pruduct-service:
+        loggerLevel: BASIC
+        #contract: feign.Contract.Default  # 设置为默认的契约，（还原成原生的注解）
+        connectTimeout: 5000 #连接超时时间 默认2s
+        readTimeout: 10000 #读取超时时间 默认5s
+        requestInterceptors[0]:
+          com.tuilngxueyuan.intercptor.feign.CustomfeignInterceptor

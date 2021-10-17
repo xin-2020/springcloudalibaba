@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53aea948-e29c-4162-856e-825fe6497315" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\J2EE\devtools\apache-maven-3.6.3-bin\MavenRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../devtools/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\develop\J2EE\devtools\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1z1piAKjvYjINThjEgV5Myt4KEl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/seata/seata-order/src/main/java/com/tuling/order" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gateway/src/main/resources" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tuling.store.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\develop\J2EE\IDEAPro\springcloudAlibaba\springcloudalibaba01\gateway\src\main\resources" />
+      <recent name="D:\develop\J2EE\IDEAPro\springcloudAlibaba\springcloudalibaba01" />
+      <recent name="D:\develop\J2EE\IDEAPro\springcloudAlibaba\springcloudalibaba01\config-nacos\src\main\resources" />
+      <recent name="D:\develop\J2EE\IDEAPro\springcloudAlibaba\springcloudalibaba01\order\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Applicationorder-nacos 8820">
+    <configuration name="Application-sentinel8861" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="order-sentinel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuilngxueyuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuilngxueyuan.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application_config-nacos8850" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.config.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Applicationopenfeign-sentinel8041" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="order-openfeign-sentinel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuilngxueyuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuilngxueyuan.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Applicationorder-nacos 8820" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="order-nacos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuilngxueyuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuilngxueyuan.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Applicationstore-nacos 8021" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="store-nacos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuling.store.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuling.store.controller.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gatewayapplication8088" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tulingxueyuan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tulingxueyuan.gatewayapplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application_config-nacos8850" />
+      <item itemvalue="Spring Boot.Applicationstore-nacos 8021" />
+      <item itemvalue="Spring Boot.Application-sentinel8861" />
+      <item itemvalue="Spring Boot.Applicationopenfeign-sentinel8041" />
+      <item itemvalue="Spring Boot.Applicationorder-nacos 8820" />
+      <item itemvalue="Spring Boot.gatewayapplication8088" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Applicationorder-nacos 8820" />
+        <item itemvalue="Spring Boot.Applicationstore-nacos 8021" />
+        <item itemvalue="Spring Boot.Application-sentinel8861" />
+        <item itemvalue="Spring Boot.gatewayapplication8088" />
+        <item itemvalue="Spring Boot.Applicationopenfeign-sentinel8041" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.3201804" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53aea948-e29c-4162-856e-825fe6497315" name="Default Changelist" comment="" />
+      <created>1633325572732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633325572732</updated>
+      <workItem from="1633325574587" duration="14478000" />
+      <workItem from="1633419134881" duration="11916000" />
+      <workItem from="1633498067454" duration="6332000" />
+      <workItem from="1633518511256" duration="6542000" />
+      <workItem from="1633587886612" duration="11107000" />
+      <workItem from="1633662846348" duration="14592000" />
+      <workItem from="1633749238575" duration="7796000" />
+      <workItem from="1633781022238" duration="9944000" />
+      <workItem from="1633914400999" duration="3354000" />
+      <workItem from="1634027930784" duration="5151000" />
+      <workItem from="1634124087546" duration="10666000" />
+      <workItem from="1634191126304" duration="8744000" />
+      <workItem from="1634296097263" duration="1704000" />
+      <workItem from="1634389371345" duration="3233000" />
+      <workItem from="1634438053924" duration="3708000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="761" y="166" width="744" height="708" key="#Application" timestamp="1634126070581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1022" y="38" key="#Application-sentinel" timestamp="1633694328751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1022" y="38" key="#Application-sentinel/0.0.1920.1040@0.0.1920.1040" timestamp="1633694328751" />
+    <state x="761" y="166" width="744" height="708" key="#Application/0.0.1920.1040@0.0.1920.1040" timestamp="1634126070581" />
+    <state x="595" y="171" key="#Application8020" timestamp="1633336447397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="171" key="#Application8020/0.0.1920.1040@0.0.1920.1040" timestamp="1633336447397" />
+    <state x="595" y="171" key="#Application8021" timestamp="1633336339480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="171" key="#Application8021/0.0.1920.1040@0.0.1920.1040" timestamp="1633336339480" />
+    <state x="595" y="171" key="#Application8021_(1)" timestamp="1633336334169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="595" y="171" key="#Application8021_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1633336334169" />
+    <state x="311" y="148" key="#Application8030" timestamp="1633500667053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="311" y="148" key="#Application8030/0.0.1920.1040@0.0.1920.1040" timestamp="1633500667053" />
+    <state x="398" y="132" key="#Application8031" timestamp="1633500747342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="398" y="132" key="#Application8031/0.0.1920.1040@0.0.1920.1040" timestamp="1633500747342" />
+    <state x="85" y="99" key="#Application_(1)" timestamp="1633694219562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="85" y="99" key="#Application_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1633694219562" />
+    <state x="698" y="216" key="#Application_8021" timestamp="1633500563853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="216" key="#Application_8021/0.0.1920.1040@0.0.1920.1040" timestamp="1633500563853" />
+    <state x="81" y="178" width="744" height="697" key="#Application_8021_(1)" timestamp="1633343955651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="81" y="178" width="744" height="697" key="#Application_8021_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1633343955651" />
+    <state x="342" y="146" key="#Application_8022" timestamp="1633500634934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="146" key="#Application_8022/0.0.1920.1040@0.0.1920.1040" timestamp="1633500634934" />
+    <state x="42" y="190" key="#Project_Structure" timestamp="1634394436122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="42" y="190" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1634394436122" />
+    <state x="1031" y="148" key="#SentinelApplication_8858" timestamp="1633677650732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1031" y="148" key="#SentinelApplication_8858/0.0.1920.1040@0.0.1920.1040" timestamp="1633677650732" />
+    <state x="145" y="214" key="#SentinelDemoApplication_(1)" timestamp="1633675561613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="145" y="214" key="#SentinelDemoApplication_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1633675561613" />
+    <state x="145" y="202" key="#SentinelDemoApplication_8858" timestamp="1633675608940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="145" y="202" key="#SentinelDemoApplication_8858/0.0.1920.1040@0.0.1920.1040" timestamp="1633675608940" />
+    <state x="36" y="126" width="951" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634296542843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="36" y="126" width="951" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634296542843" />
+    <state x="360" y="175" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1634296371309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="360" y="175" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634296371309" />
+    <state x="389" y="246" key="#com.intellij.ide.util.MemberChooser" timestamp="1634216094654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="389" y="246" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1634216094654" />
+    <state x="273" y="244" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1633783393737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="273" y="244" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1633783393737" />
+    <state x="101" y="38" key="#gatewayapplication" timestamp="1634128184939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="101" y="38" key="#gatewayapplication/0.0.1920.1040@0.0.1920.1040" timestamp="1634128184939" />
+    <state width="602" height="266" key="GridCell.Tab.0.bottom" timestamp="1634400135293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="602" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1634400135293" />
+    <state width="602" height="266" key="GridCell.Tab.0.center" timestamp="1634400135293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="602" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1634400135293" />
+    <state width="602" height="266" key="GridCell.Tab.0.left" timestamp="1634400135293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="602" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1634400135293" />
+    <state width="602" height="266" key="GridCell.Tab.0.right" timestamp="1634400135293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="602" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634400135293" />
+    <state width="602" height="266" key="GridCell.Tab.1.bottom" timestamp="1634400135293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="602" height="266" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1634400135293" />
+    <state width="602" height="266" key="GridCell.Tab.1.center" timestamp="1634400135293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="602" height="266" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1634400135293" />
+    <state width="602" height="266" key="GridCell.Tab.1.left" timestamp="1634400135293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="602" height="266" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1634400135293" />
+    <state width="602" height="266" key="GridCell.Tab.1.right" timestamp="1634400135293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="602" height="266" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634400135293" />
+    <state width="1269" height="266" key="GridCell.Tab.2.bottom" timestamp="1634134664894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1269" height="266" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1634134664894" />
+    <state width="1269" height="266" key="GridCell.Tab.2.center" timestamp="1634134664894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1269" height="266" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1634134664894" />
+    <state width="1269" height="266" key="GridCell.Tab.2.left" timestamp="1634134664894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1269" height="266" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1634134664894" />
+    <state width="1269" height="266" key="GridCell.Tab.2.right" timestamp="1634134664894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1269" height="266" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1634134664894" />
+    <state x="118" y="146" key="SettingsEditor" timestamp="1634128736056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="118" y="146" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1634128736056" />
+    <state x="267" y="318" key="chooseDestDirectoryDialog" timestamp="1634047045014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="267" y="318" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634047045014" />
+    <state x="276" y="359" key="com.intellij.ide.util.TipDialog" timestamp="1634438695141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="276" y="359" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1634438695141" />
+    <state x="0" y="70" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1633502320277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="70" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1633502320277" />
+    <state x="77" y="188" width="858" height="585" key="new project wizard" timestamp="1634124109226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="77" y="188" width="858" height="585" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1634124109226" />
+    <state x="130" y="271" width="672" height="678" key="search.everywhere.popup" timestamp="1634139162586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="130" y="271" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1634139162586" />
+  </component>
+</project>

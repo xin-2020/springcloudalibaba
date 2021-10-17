@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="order-ribbon" />
+        <module name="config-nacos" />
+        <module name="product-nacos" />
+        <module name="order-sentinel" />
+        <module name="gateway" />
+        <module name="order-loadbalancer" />
+        <module name="store-nacos" />
+        <module name="order" />
+        <module name="sentinel_demo" />
+        <module name="order-nacos" />
+        <module name="seata-order" />
+        <module name="store" />
+        <module name="order-openfeign-sentinel" />
+        <module name="order-openfeign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-nacos" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="gateway (1)" target="1.8" />
+      <module name="gateway-nacos" target="1.8" />
+      <module name="order" target="1.8" />
+      <module name="order-loadbalancer" target="1.8" />
+      <module name="order-nacos" target="1.8" />
+      <module name="order-openfeign" target="1.8" />
+      <module name="order-openfeign-sentinel" target="1.8" />
+      <module name="order-ribbon" target="1.8" />
+      <module name="order-seata1" target="1.5" />
+      <module name="order-sentinel" target="1.8" />
+      <module name="product-nacos" target="1.8" />
+      <module name="seata" target="1.8" />
+      <module name="seata-order" target="1.8" />
+      <module name="sentinel_demo" target="1.8" />
+      <module name="springcloudalibaba01" target="1.8" />
+      <module name="store" target="1.8" />
+      <module name="store-nacos" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

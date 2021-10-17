@@ -1,0 +1,21 @@
+server:
+  port: 8041
+#应用名称(nacos会将该名称当做服务名称)
+spring:
+  application:
+    name: order-service
+  cloud:
+    sentinel:
+      transport:
+        dashboard: 127.0.0.1:8858
+    nacos:
+      server-addr:  192.168.1.129:8847
+      discovery:
+        username: nacos
+        password: nacos
+        namespace: public #命名空间 管理界面的服务列表
+#openfeign整合sentinel
+
+feign:
+  sentinel:
+    enabled: true

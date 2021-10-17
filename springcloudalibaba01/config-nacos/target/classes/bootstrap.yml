@@ -1,0 +1,14 @@
+spring:
+  cloud:
+    nacos:
+      server-addr: 192.168.1.129:8847
+      username: nacos
+      password: nacos
+      config:
+        file-extension: yal
+        #refresh-enabled: false #nacos 将无法感知配置的变化
+       # namespace: dev
+        group: tulingxueyuan
+      #namespace: public
+      #nacosclient 默认是properties的后缀
+#配置文件的优先级 profile>默认配置文件，优先级大的会覆盖优先级小的，并且会互补

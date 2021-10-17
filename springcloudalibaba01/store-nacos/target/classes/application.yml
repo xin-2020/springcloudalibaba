@@ -1,0 +1,21 @@
+server:
+  port: 8021
+#应用名称(nacos会将该名称当做服务名称)
+spring:
+  application:
+    name: store-service
+  cloud:
+    sentinel:
+      transport:
+        dashboard: 127.0.0.1:8858
+    nacos:
+      discovery:
+        username: nacos
+        password: nacos
+        namespace: public #命名空间 管理界面的服务列表
+        #ephemeral: false  #设置永久实例  哪怕宕机了也不会删除实例
+        #service: ${spring.application.name}  默认取${spring.application.name}，也可以通过该选项配置
+        #group: DEFAULT_GROUP   #默认值 更细的相同特征的服务进行归类分组管理
+        #weight: 通常要结合 安装 权重的负载均衡策略，权重越高分配的流量就越大
+        #metadata: version=1 #元数据 可以结合元数据做扩展
+      server-addr:  192.168.1.129:8847

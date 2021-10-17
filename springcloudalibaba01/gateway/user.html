@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>get user</title>
+    <script src="http://apps.bdimg.com/libs/jquery/1.9.1/jquery.min.js"></script>
+</head>
+<body>
+    <div>
+        <table border="1">
+            <thead>
+            <tr>
+                <td>id</td>
+                <td>username</td>
+                <td>age</td>
+            </tr>
+            </thead>
+            <tbody id="userlist">
+
+            </tbody>
+        </table>
+    </div>
+<input type="button" value="用户列表" onclick="getData()">
+<script>
+    function getData() {
+        $.get('http//localhost:8088/order/add',function (data) {
+            alert(data)
+
+        });
+    }
+</script>
+</body>
+</html>
